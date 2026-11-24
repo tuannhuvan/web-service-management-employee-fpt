@@ -1,0 +1,5 @@
+com\enterprise\hrm\client\generated\EmployeeWebService.class
+com\enterprise\hrm\client\generated\Employee.class
+com\enterprise\hrm\client\generated\EmployeeService.class
+com\enterprise\hrm\client\controller\EmployeeServlet.class
+com\enterprise\hrm\client\util\ServiceClientFactory.class

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime" version="2.0">
+    <endpoint
+        name="EmployeeWebService"
+        implementation="com.enterprise.hrm.service.EmployeeServiceImpl"
+        url-pattern="/EmployeeWebService"/>
+    <endpoint
+        name="EmployeeService"
+        implementation="com.enterprise.hrm.service.EmployeeServiceImpl"
+        url-pattern="/EmployeeService"/>
+</endpoints>

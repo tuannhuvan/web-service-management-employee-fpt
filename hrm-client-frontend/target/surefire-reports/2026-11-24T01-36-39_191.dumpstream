@@ -1,0 +1,5 @@
+# Created at 2026-11-24T01:36:44.424
+Boot Manifest-JAR contains absolute paths in classpath 'D:\06.Works\FPT-Aptech\csw-test-final\web-service-management-employee-fpt\hrm-client-frontend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
